@@ -1,0 +1,4 @@
+github.com/tidusant/c3m-common/c3mcommon@old
+github.com/tidusant/c3m-common/log@old
+github.com/tidusant/chadmin-repo/cuahang@old1.0.4
+github.com/tidusant/chadmin-repo/models@old
